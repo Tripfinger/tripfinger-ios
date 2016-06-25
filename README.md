@@ -1,6 +1,6 @@
 # Welcome to Tripfinger on Github
 
-Tripfinger is a travel application currently in beta-testing. To get an invitation, sign up here:
+Tripfinger is a travel application currently in beta-testing for iOS. To get an invitation, sign up here:
 
 https://www.tripfinger.com/beta
 
